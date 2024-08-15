@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-- This project aims to analyze the relationship between mental health indicators—specifically symptoms of depressive disorder, anxiety disorder, and a combination of both—and various demographic factors such as education level, state, and age group. The analysis utilizes data from the U.S. Census Bureau's Household Pulse Survey, which gauges the impact of the COVID-19 pandemic on American households across several dimensions, including mental wellness.
+This project aims to analyze the relationship between mental health indicators—specifically symptoms of depressive disorder, anxiety disorder, and a combination of both—and various demographic factors such as education level, state, and age group. The analysis utilizes data from the U.S. Census Bureau's Household Pulse Survey, which gauges the impact of the COVID-19 pandemic on American households across several dimensions, including mental wellness.
 
 ## Objectives
 The key objectives of this project are:
