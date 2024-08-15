@@ -9,7 +9,7 @@ The key objectives of this project are:
 
 - To investigate the correlation between mental health indicators and demographic factors.
 - To visualize trends and patterns in mental health conditions across different states, age groups, and education levels.
-- To provide insights that could help policymakers, mental health professionals, and researchers understand the distribution of mental health issues in the U.S. population during the pandemic.
+- To provide insights that could help policymakers, mental health professionals, and researchers understand the distribution of mental health issues in the U.S. population.
 
 ## Dataset Information
 The dataset is sourced from the U.S. Census Bureau's Household Pulse Survey
