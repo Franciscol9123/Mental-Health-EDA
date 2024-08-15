@@ -75,4 +75,4 @@ The data required extensive cleaning to ensure accuracy and relevance for the an
 then Male's. 
 
 ## Conclusion
-This analysis demonstrates that mental health outcomes are influenced by a combination of demographic factors including education level, state of residence, and age group. The findings underscore the need for targeted mental health interventions that consider these demographic factors to effectively address the mental health crisis.
+This analysis demonstrates that mental health outcomes are influenced by a combination of demographic factors including education level, state of residence, age group, and sex. The findings underscore the need for targeted mental health interventions that consider these demographic factors to effectively address the mental health crisis.
