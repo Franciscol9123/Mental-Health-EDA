@@ -61,18 +61,18 @@ The data required extensive cleaning to ensure accuracy and relevance for the an
 
 ### Findings
 
--Younger age groups, particularly those aged 18-29, show a higher median percentage of reported mental health symptoms compared to older age groups.
--The spread of the data within each age group suggests that younger populations are more vulnerable to mental health issues during the pandemic.
+- Younger age groups, particularly those aged 18-29, show a higher median percentage of reported mental health symptoms compared to older age groups.
+- The spread of the data within each age group suggests that younger populations are more vulnerable to mental health issues during the pandemic.
 
-## Visualization 4: Radar Map of Mental Health Indicators by State and Age Group
-- Description: This radar map compares mental health indicators across both states and age groups, offering a multi-dimensional perspective. The radar map format allows for the simultaneous comparison of multiple variables, making it easier to spot trends and correlations.
+## Visualization 4: Radar Map of Mental Health Indicators by Sex
+- Description: This radar map compares mental health indicators between Male's and Female's, offering a multi-dimensional perspective. The radar map format allows for the simultaneous comparison of multiple variables, making it easier to spot trends and correlations.
 
-- Purpose: To identify how different age groups within each state are affected by mental health disorders.
+- Purpose: To identify how Male's and Female's compare and are affected by mental health disorders.
 
 ### Findings
 
-- The radar map reveals distinct patterns where certain states have consistently high or low values across all age groups.
-States like California and New York show similar trends across age groups, whereas states like Florida exhibit more variation.
+- The radar map reveals distinct patterns where Female's consistently have a steady, higher percentage of mental health disorders 
+then Male's. 
 
 ## Conclusion
 This analysis demonstrates that mental health outcomes are influenced by a combination of demographic factors including education level, state of residence, and age group. The findings underscore the need for targeted mental health interventions that consider these demographic factors to effectively address the mental health crisis.
