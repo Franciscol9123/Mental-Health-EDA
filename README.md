@@ -75,4 +75,12 @@ The data required extensive cleaning to ensure accuracy and relevance for the an
 then Male's. 
 
 ## Conclusion
-This analysis demonstrates that mental health outcomes are influenced by a combination of demographic factors including education level, state of residence, age group, and sex. The findings underscore the need for targeted mental health interventions that consider these demographic factors to effectively address the mental health crisis.
+- This analysis demonstrates that mental health outcomes are influenced by a combination of demographic factors including education level, state of residence, age group, and sex. The findings underscore the need for targeted mental health interventions that consider these demographic factors to effectively address the mental health crisis.
+- There is a correlation between age and reported symptoms. 18-50 affected more significantly than older reporters.
+- Races are affected differently: Asians reported less, multi-racial and latinos reported the most.
+- Some states reported higher frequency of symptoms. Higher density states had higher reports in all indicators. Southern states reported higher as well.
+- Sexes may report at a different frequency. Men might not be as likely to report.
+- Higher education leads to less reports, likely because of the less stressful life and evironment.  
+ 
+
+
