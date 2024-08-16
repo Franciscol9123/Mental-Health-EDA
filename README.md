@@ -73,7 +73,34 @@ The data required extensive cleaning to ensure accuracy and relevance for the an
 
 - The radar map reveals distinct patterns where Female's consistently have a steady, higher percentage of mental health disorders 
 then Male's. 
+## Visualization 5: Age histograms
+- Description: These three histograms show the distribution of age groups by indicators.
+- Purpose: To identify distributions of each invidividual age group
 
+### Findings
+- The histograms show some outliers along with a trend of younger age groups being affect by depression and/or anexity the most.
+  
+## Visualization 6: Age Linear Regression lines
+- Description: These show the negative correlation between the age groups and frequency of reported means.
+- Purpose: To confirm the correlation hypothesized results
+
+### Findings
+- There indeed is a correlation between the data indicating that the older you are results in less reported symptoms.
+  
+## Visualization 7: Race/Ethnicity histograms
+- Description: These three histograms show the distribution of racial groups by indicators.
+- Purpose: To identify distributions of each invidividual racial group
+
+### Findings
+- The histograms show some outliers along with a trend of multi racial groups being affected by depression and/or anexity the most.
+  
+## Visualization 8: Race Stacked Bar Chart
+- Description: These bar charts displays the reported symptoms by racial group over the three main indicators.
+- Purpose: To compare each indicator and race over a single chart.
+
+### Findings
+- The bar graphs show that single racial group often report less than multi-racial or ethnic groups
+- 
 ## Conclusion
 - This analysis demonstrates that mental health outcomes are influenced by a combination of demographic factors including education level, state of residence, age group, and sex. The findings underscore the need for targeted mental health interventions that consider these demographic factors to effectively address the mental health crisis.
 - There is a correlation between age and reported symptoms. 18-50 affected more significantly than older reporters.
